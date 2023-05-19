@@ -1,0 +1,35 @@
+.Center .ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    width: 100%;
+    gap: 10px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -18%;
+
+}
+.Center span{
+    color: brown;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.Center {
+    color: white;
+}
+.Center p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+/* span::after {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 10px;
+    color: rgb(201, 34, 34);
+    
+
+} */
