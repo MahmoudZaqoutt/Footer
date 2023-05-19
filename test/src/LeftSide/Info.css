@@ -24,4 +24,9 @@
 }
 .Info {
     width: 30%;
+    /* text-align: justify; */
+}
+
+.content{
+    color: red;
 }
