@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Info from './LeftSied/Info';
+import Info from './LeftSide/Info';
 import Container from './Container/Container';
 import Center from './Center/Center';
 import Direction from './Right/Direction';

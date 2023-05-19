@@ -1,0 +1,17 @@
+.Direction {
+    color: white;
+}
+.Direction span {
+    color: brown;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.Direction p {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Direction img {
+    height: 300px;
+    width: 300px;
+}
